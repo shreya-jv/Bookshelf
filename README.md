@@ -50,10 +50,6 @@ Once you have installed the dependencies, you can run the application locally us
 - Book data is fetched from the Open Library API.
 - User's bookshelf data is stored persistently in the browser using localStorage.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Open Library API for providing book data.
